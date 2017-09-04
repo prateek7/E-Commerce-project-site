@@ -1,0 +1,6 @@
+2015-01-19 19:40:11 - PHP Warning:  Invalid argument supplied for foreach() in /home/sahrawa/domains/sahrawa.myweb.cs.uwindsor.ca/public_html/admin/controller/common/filemanager.php on line 379
+2015-03-18 22:27:27 - PHP Notice:  Undefined variable: help_usere in /home/sahrawa/domains/sahrawa.myweb.cs.uwindsor.ca/public_html/admin/view/template/payment/pp_payflow.tpl on line 38
+2015-03-18 22:28:18 - PHP Notice:  Undefined variable: help_start_date in /home/sahrawa/domains/sahrawa.myweb.cs.uwindsor.ca/public_html/catalog/view/theme/default/template/payment/pp_payflow.tpl on line 27
+2015-03-18 22:28:18 - PHP Notice:  Undefined variable: help_issue in /home/sahrawa/domains/sahrawa.myweb.cs.uwindsor.ca/public_html/catalog/view/theme/default/template/payment/pp_payflow.tpl on line 67
+2015-03-18 22:28:18 - PHP Notice:  Undefined variable: text_loading in /home/sahrawa/domains/sahrawa.myweb.cs.uwindsor.ca/public_html/catalog/view/theme/default/template/payment/pp_payflow.tpl on line 76
+2015-03-18 22:30:34 - PHP Notice:  Undefined variable: help_usere in /home/sahrawa/domains/sahrawa.myweb.cs.uwindsor.ca/public_html/admin/view/template/payment/pp_payflow.tpl on line 38
